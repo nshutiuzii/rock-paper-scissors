@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors
 
-### [andella] andela kick start
+# [andella] andela kick start
 
-[Live Demo](https://nshutiuzii.github.io/rock-paper-scissors/)
+[click here to play](https://nshutiuzii.github.io/rock-paper-scissors/)
